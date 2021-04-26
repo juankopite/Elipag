@@ -1,0 +1,107 @@
+body {
+	background: #292929;
+	margin:0;
+	padding: 0;
+}
+
+h1 {
+	color : red;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 4em;
+}
+
+img {
+	margin : auto;
+	display: block;
+}
+
+header {
+	background: #FADBD8;
+	width: 100%;
+	clear: both;
+	display: table;
+}
+
+nav {
+	float: right;
+}
+
+nav ul li {
+	list-style: none;
+	float: left;
+	padding-right: 78px;
+	padding-top: 3px;
+}
+
+
+nav ul li a {
+	text-decoration: none;
+	color: #444;
+	font-weight: bold;
+	font-family: 'Pacifico', cursive;
+}
+
+.menu {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.logo {
+	width: 120px;
+	float: left;
+	padding: 8px;
+}
+
+.div-1 {
+	width: 95%;
+	margin: auto;
+}
+
+.acido {
+	display: inline-block;
+}
+
+.zanahoria{
+	display: inline-block;
+	padding: 0 45px;
+}
+
+.beneficios-zanahoria{
+	display: inline-block;
+}
+
+.mascarilla{
+	display: inline-block;
+	float: right;
+}
+
+.facial{
+	display: inline-block;
+	padding-top: 30px;
+
+}
+
+.pestañas{
+	display: inline-block;
+	padding: 0 45px;
+	
+}
+
+.rosas{
+	display: inline-block;
+	
+}
+
+.rostro{
+	display: inline-block;
+	float: right;
+	padding-top: 30px;
+}
+
+
+
+.div-2 {
+	width: 450px;
+	margin: auto;
+}
